@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/game_ost_lmao.mp3</file>
+        <file>img/Untitled808-1.wav</file>
+        <file>img/pause_background.png</file>
+        <file>img/gadget_1.png</file>
+        <file>img/gadget_2.png</file>
+        <file>img/gadget_3.png</file>
+        <file>img/gaming_layer_1.png</file>
+        <file>img/gadget_4.png</file>
+        <file>img/player_laser_beam.png</file>
+        <file>img/player_ammo_lv2.png</file>
+        <file>img/player_ammo_lv1.png</file>
+        <file>img/gaming_layer_below.png</file>
+        <file>img/gaming_layer_above.png</file>
+        <file>img/player_ammo_lv2.jpg</file>
+        <file>img/player_ammo_lv1.jpg</file>
+        <file>img/enemy_ammo_lv2.jpg</file>
+        <file>img/enemy_ammo_lv1.jpg</file>
+        <file>img/enemy_ammo_lv3.jpg</file>
+        <file>img/boss_ammo_3.jpg</file>
+        <file>img/speed_up.jpg</file>
+        <file>img/single_shield.jpg</file>
+        <file>img/player_life.jpg</file>
+        <file>img/massive_bomb.jpg</file>
+        <file>img/laser_beam.jpg</file>
+        <file>img/double_score.jpg</file>
+        <file>img/enemy_lv3_dead.jpg</file>
+        <file>img/enemy_lv3.jpg</file>
+        <file>img/enemy_lv2_dead.jpg</file>
+        <file>img/enemy_lv2.jpg</file>
+        <file>img/enemy_lv1_dead.jpg</file>
+        <file>img/enemy_lv1.jpg</file>
+        <file>img/player_shielded.jpg</file>
+        <file>img/player_immune.jpg</file>
+        <file>img/boss_ammo_2.jpg</file>
+        <file>img/boss_ammo_1.jpg</file>
+        <file>img/player.jpg</file>
+        <file>img/boss_1.jpg</file>
+        <file>img/gaming_background.jpg</file>
+        <file>img/player_dead.jpg</file>
+        <file>img/boss_1_dead.jpg</file>
+        <file>img/hp_bar.png</file>
+        <file>img/hp_bar_background.png</file>
+        <file>img/hp_bar_shade.png</file>
+        <file>img/laser_beam_inactive.jpg</file>
+        <file>img/massive_bomb_inactive.jpg</file>
+        <file>img/player_life_inactive.jpg</file>
+        <file>img/single_shield_inactive.jpg</file>
+        <file>img/speed_up_inactive.jpg</file>
+        <file>img/player_laser_beam.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
